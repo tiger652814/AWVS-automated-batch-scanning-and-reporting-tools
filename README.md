@@ -1,3 +1,5 @@
+[English](README_EN.md)
+
 # AWVS自动化批量扫描和报告工具
 
 AWVS自动化批量扫描和报告工具是一个基于Python的应用，旨在为使用AWVS（Acunetix Web Vulnerability Scanner）的安全研究人员提供自动化的扫描和报告生成能力。该工具特别适用于需要对多个目标进行安全评估的场景，通过自动化流程显著提高工作效率。
