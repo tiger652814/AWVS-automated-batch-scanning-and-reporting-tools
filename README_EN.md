@@ -1,4 +1,4 @@
-[中文](README.md)
+[中文][Chinese](README.md)
 
 # AWVS Automated Batch Scanning and Reporting Tool
 
