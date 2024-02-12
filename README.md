@@ -1,4 +1,4 @@
-[English](README_EN.md)
+[英文][English](README_EN.md)
 
 # AWVS自动化批量扫描和报告工具
 
