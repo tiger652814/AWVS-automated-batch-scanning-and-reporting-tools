@@ -24,7 +24,7 @@ AWVS自动化批量扫描和报告工具是一个基于Python的应用，旨在�
 
 1. 克隆仓库到本地或下载源代码压缩包。
 ```plain
-git clone https://github.com/***/***.git
+git clone https://github.com/tiger652814/AWVS_fished.git
 ```
 2. 打开命令行界面，切换到项目目录。
 3. 运行`pip install -r requirements.txt`来安装所需的Python依赖包。
