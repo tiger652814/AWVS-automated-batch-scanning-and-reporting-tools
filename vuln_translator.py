@@ -28,7 +28,7 @@ class VulnTranslator:
             "[Possible] Internal Path Disclosure (*nix)": "可能出现服务器路径披露 (Unix)",
             "Apache Struts2 Remote Command Execution (S2-052) ": "Apache Struts2 远程命令执行漏洞（S2-052）",
             "Unprotected JSON file leaking secrets": "未加密的 JSON 文件",
-            "Spring Boot Actuator v2": "Sping 未授权访问",
+            "Spring Boot Actuator v2": "Spring 未授权访问",
             "Golang runtime profiling data": "Golang 运行时分析数据",
             "(Possible) Cross site scripting": "跨站脚本",
             "Open Silverlight Client Access Policy": "打开Silverlight客户端访问策略",
