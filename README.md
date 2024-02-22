@@ -42,7 +42,7 @@ allowed_macs = [
 ```
 5. 在main_program.py中找到中找到
 ```plain
-generate_tjdx_report(filtered_vulns, f"{safe_task_description}【想修改的名称】渗透报告+表格")
+generate_sb_report(filtered_vulns, f"{safe_task_description}【想修改的名称】渗透报告+表格")
 print("【想修改的名称】版漏洞报告生成完毕。")
 ```
 便可以修改成想要的名称。
