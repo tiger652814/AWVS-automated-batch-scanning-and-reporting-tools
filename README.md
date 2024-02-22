@@ -70,7 +70,7 @@ pyinstaller --onefile --windowed --icon=logo.ico --add-data "word_TJDX.py;." gui
 
 ## 许可
 
-本项目采用[MIT许可证](LICENSE)。使用本工具前，请确保您的使用目的和方式符合许可证条款以及相关法律法规。
+本项目采用[自定义许可证](LICENSE)。使用本工具前，请确保您的使用目的和方式符合许可证条款以及相关法律法规。
 
 ## 贡献
 
