@@ -10,6 +10,6 @@ excluded_vulns = [
     "Clickjacking: X-Frame-Options header","Content Security Policy (CSP) not implemented",
     "No HTTP Redirection","HTTP Strict Transport Security (HSTS) not implemented",
     "Clickjacking: X-Frame-Options header","Insecure HTTP Usage","Clickjacking: CSP frame-ancestors missing",
-    "Subresource Integrity (SRI) 未实施",""
+    "Subresource Integrity (SRI) 未实施""Active Mixed Content over HTTPS ",""
     # ... 其他漏洞名称 ...
 ]
