@@ -84,7 +84,7 @@ root = tk.Tk()
 root.geometry("740x440")
 root.minsize(740, 440)
 root.maxsize(740, 440)
-root.title("AWVS 批量扫描_安服摸鱼工具 V2.1.5.4.9")
+root.title("AWVS 批量扫描_安服摸鱼工具 V2.1.5.5.0")
 #root.iconbitmap("logo.ico")
 
 # 定义自定义字体
