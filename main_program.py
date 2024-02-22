@@ -13,7 +13,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from word_report_generator import generate_word_report as generate_standard_report
-from word_TJDX import generate_word_report as generate_tjdx_report
+from word_SB import generate_word_report as generate_tjdx_report
 from vuln_translator import VulnTranslator
 from excluded_vulns import excluded_vulns
 
